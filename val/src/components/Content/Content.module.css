@@ -1,0 +1,13 @@
+.background {
+    background-color: #0079BF;
+    width: 100%;
+    flex-grow: 3
+}
+
+.container {
+    width: calc(100% - 32px);
+    margin: 0 auto;
+    display: grid;
+    gap: 24px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}

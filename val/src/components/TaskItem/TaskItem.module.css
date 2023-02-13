@@ -1,0 +1,10 @@
+.container {
+    background-color: #FFFFFF;
+    margin: 12px 15px;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.taskText {
+    color: black;
+}

@@ -1,0 +1,24 @@
+.button {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-left: 14px;
+    border-radius: 5px;
+    align-self: start;
+    justify-self: flex-end;
+}
+
+.add {
+    color: #5E6C84;
+    background-color: transparent;
+}
+
+.submit {
+    color: #FFFFFF;
+    background-color: #0079BF;
+    padding: 4px 8px;
+}

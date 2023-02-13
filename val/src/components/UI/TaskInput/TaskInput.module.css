@@ -1,0 +1,12 @@
+.input {
+    background-color: #FFFFFF;
+    margin: 12px 15px;
+    border-radius: 5px;
+    padding: 7px;
+    width: 93%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 21px;
+}

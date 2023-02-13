@@ -1,0 +1,19 @@
+.container {
+    background-color: #FFFFFF;
+    margin: 12px 15px;
+    border-radius: 5px;
+    padding: 7px;
+    width: 93%;
+    min-height: 35px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.positionContainer {
+    position: relative;
+}
+
+.image {
+    width: 18px;
+}
